@@ -1,0 +1,33 @@
+.heading1{
+    text-align: center;
+    color:rgb(85, 79, 85);
+   
+}
+
+.alignment{
+    font-size: 35px;
+    color:blue;
+  
+}
+
+.table_border{
+    border: 1 px solid rgb(9, 92, 6);
+}
+
+.alignment_data{
+    font-size: 25px;
+    color:rgb(12, 128, 18);
+    text-align: center;
+
+}
+
+table, th, td {
+    border: 2px solid rgb(31, 29, 29);
+    border-style:ridge;
+    border-collapse:collapse;
+  }
+
+  .align{
+    margin-left: auto;
+    margin-right: auto;
+  }
